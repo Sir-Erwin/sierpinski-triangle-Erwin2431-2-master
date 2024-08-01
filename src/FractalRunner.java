@@ -6,8 +6,8 @@ import javax.swing.JFrame;
 
 public class FractalRunner extends JFrame {
 
-    private static final int WIDTH = 800;
-    private static final int HEIGHT = 600;
+    private static final int WIDTH = 850;
+    private static final int HEIGHT = 650;
 
     public FractalRunner() {
         super( "Fractal Runner" );
